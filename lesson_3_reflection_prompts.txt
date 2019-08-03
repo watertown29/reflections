@@ -33,4 +33,4 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    If your feature is not approved for the master yet. To test out something before commiting to the whole project.
